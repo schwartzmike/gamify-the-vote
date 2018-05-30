@@ -12,15 +12,15 @@ The goal here is to drive more people to the polls in the USA. Turnout is likely
 
 It's a Ponzi scheme for voting.
 
-Additional points potentially for:
+### Additional points potentially for:
 * First time registration
 * Proof of voting
 
-Leaderboards:
+### Leaderboards:
 * National
 * State
 
-Stats visible:
+### Stats visible:
 * Points
 * Number of people in your tree
 * Ranks
@@ -28,9 +28,12 @@ Stats visible:
 * Percentage of new registrations in your tree
 * Percentage of actual voters in your tree
 
-Badges:
+### Badges:
 * number of people in your tree
 * number of new registrations in your tree
 * number of actual voters in your tree
 * one in your tree from every state
 * one in your tree from every party?
+
+### Why?
+* To make a difference in our democracy, going beyond what little effect I feel I can get out of donations, and volunteering my time.
