@@ -29,13 +29,8 @@ Stats visible:
 * Percentage of actual voters in your tree
 
 Badges:
-* # of people in your tree
-* # of new registrations in your tree
-* # of actual voters in your tree
-* 1 in your tree from every state
-* 1 in your tree from every party?
-
-
-
-
-
+* number of people in your tree
+* number of new registrations in your tree
+* number of actual voters in your tree
+* one in your tree from every state
+* one in your tree from every party?
